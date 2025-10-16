@@ -9,6 +9,24 @@
 </ul>
 
 <h2> 🛠️Files and directories</h2>
-<li>SignIn and signUp</li>
+<ul>
+  <li>SignIn and signUp </li>
+</ul>
+
+<h2> :floppy_disk: Database</h2>
+<ul>
+  <li>Employee database on phpMyAdmin localhost server </li>
+  <ul>Contains tables:
+  <li>Attendance</li>
+  <li>Department</li>
+  <li>Designation</li>
+  <li>Employee</li>
+  <li>leavetable</li>
+  <li>Login</li>
+  <li>Payroll</li>
+  <li>Qualification</li>
+  </ul>
+  <li>Login table gets new row on signUp, the password is stored in md5 encryption and change in employee to HR using alter table.</li>
+</ul>
 
 
